@@ -49,13 +49,13 @@ h1 {
 h2 {
   font-size: 45px;
   font-weight: 300;
-  color: #3b72f0;
+  color: #4a74f6;
   letter-spacing: -1px;
   margin-bottom: 1rem;
 }
 
 h3 {
-  color: #3b72f0;
+  color: #4a74f6;
   font-size: 33px;
   font-weight: 500;
 }
@@ -63,13 +63,13 @@ h3 {
 h4 {
   font-size: 20px;
   font-weight: 500;
-  color: #3b72f0;
+  color: #4a74f6;
 }
 
 h5 {
   font-size: 28px;
   font-weight: 300;
-  color: #3b72f0;
+  color: #4a74f6;
   margin-bottom: 0.7rem;
 }
 
@@ -99,7 +99,7 @@ p.lead {
 }
 
 .btn-outline-light:hover {
-  color: #3b72f0;
+  color: #4a74f6;
 }
 
 .btn-primary {
@@ -128,7 +128,7 @@ p.lead {
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
   font-size: 14px;
   font-weight: 500;
-  color: #3b72f0;
+  color: #4a74f6;
   margin: 0.5rem;
   padding: 0.7rem 1.6rem;
   line-height: 1.8;
@@ -174,7 +174,7 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-  background-color: rgba(7, 38, 135, 0.94);
+  background-color: rgba(25, 79, 244, 0.94);
 }
 
 .nav-menu.is-scrolling {
@@ -254,10 +254,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #407a78;
-  background: -moz-linear-gradient(top, #407a78 0%, #407a78 100%);
-  background: -webkit-linear-gradient(top, #407a78 0%, #407a78 100%);
-  background: linear-gradient(to bottom, #407a78 0%, #407a78 100%);
+  color: #008a65;
+  background: -moz-linear-gradient(top, #1fc198 0%, #008a65 100%);
+  background: -webkit-linear-gradient(top, #1fc198 0%, #008a65 100%);
+  background: linear-gradient(to bottom, #1fc198 0%, #008a65 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -282,10 +282,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #407a78;
-  background: -moz-linear-gradient(top, #407a78 0%, #407a78 100%);
-  background: -webkit-linear-gradient(top, #407a78 0%, #407a78 100%);
-  background: linear-gradient(to bottom, #407a78 0%, #407a78 100%);
+  color: #008a65;
+  background: -moz-linear-gradient(top, #1fc198 0%, #008a65 100%);
+  background: -webkit-linear-gradient(top, #1fc198 0%, #008a65 100%);
+  background: linear-gradient(to bottom, #1fc198 0%, #008a65 100%);
   top: 0;
   bottom: 0;
   left: 0;
@@ -400,7 +400,7 @@ header {
   background: #FFF;
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
-  color: #3b72f0;
+  color: #4a74f6;
 }
 
 /*  TESTIMONIALS
@@ -495,7 +495,7 @@ header {
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
   box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-  color: #3b72f0;
+  color: #4a74f6;
 }
 
 .card.pricing .card-head {
@@ -507,7 +507,7 @@ header {
   display: block;
   font-size: 45px;
   font-weight: 300;
-  color: #3b72f0;
+  color: #4a74f6;
 }
 
 .card.pricing .card-head .price sub {
@@ -598,7 +598,7 @@ header {
 h4.howtolist {
   font-size: 28px;
   font-weight: 400;
-  color: #1252e6;
+  color: #194ff4;
   margin-bottom: 0.7rem;
 }
 
