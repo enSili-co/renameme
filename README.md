@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/renameme/renameme-2.1.1.zip
+▶︎ https://cdn.ensili.co/app/renameme/download/renameme-2.1.1.zip
 
 # Official Website
 
